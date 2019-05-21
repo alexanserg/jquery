@@ -1,0 +1,42 @@
+img {
+  height: 250px;
+}
+
+#initially-hidden {
+  display: none;
+}
+
+#initially-fadedout {
+  display: none;
+}
+
+#initially-slide-up {
+  display: none;
+}
+
+.clickable{
+  cursor: pointer;
+  color: blue;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+.fade{
+  cursor: pointer;
+  color: blue;
+}
+
+.fade:hover {
+  text-decoration: underline;
+}
+
+.slide{
+  cursor: pointer;
+  color: blue;
+}
+
+.slide:hover {
+  text-decoration: underline;
+}
