@@ -2,6 +2,26 @@ img {
   height: 250px;
 }
 
+.green-background {
+  background-color: green;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+.red-background {
+  background-color: red;
+}
+
+.black-background {
+  font-size: 5px;
+}
+
+#text {
+  background-color: black;
+  border: purple solid 15px;
+  color: yellow;
+}
 #initially-hidden {
   display: none;
 }
